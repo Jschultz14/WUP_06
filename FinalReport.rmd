@@ -79,6 +79,7 @@ rowPerc(table2)
 colPerc(table2)
 ```
 
+After viewing this data, which is percentage based on race, it shows that both whites and those of other races favor the proposition more than they do oppose it (although those of another race appear to favor it the most). On the other hand, it shows that blacks oppose it more than they do favor it (by extension, this also means blacks oppose this the most). The second set of data, which is percentage based on those who either favor or oppose, there is hardly any difference to be seen between whites and other races. Again, this also shows that white people make up the greatest sized group in the study. 
 
 ## Inferential Results
 
