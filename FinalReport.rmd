@@ -172,3 +172,6 @@ Based on this data, it shows that the p-value for whites compared to blacks is l
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+In this particular set of data, which has less data, we saw a some differences when analyzing the graphical data (meaning the percentages). However, it showed no considerable difference between whites and those of other races (this was not the case in the other branch with more data). In the numerical data, we saw that that people of other races favor the proposition the most and black oppose the proposition the most (in the other branch it showed that whites favored the most). Finally, the inferential results show that there was a significant difference between all groups in comparison to one another except for whites and other races. The p-value there showed as a 1, which means there is no difference.
+As far as the data is concerned in this branch, it shows that race still does effect whether one favors capital punishment or not, but because we had less data we did not see nearly as many differences as we did in the other branch with more data. 
