@@ -62,7 +62,7 @@ basicCC <- ggplot(dd2,aes(x=race,y=prcnt*100,fill=cappun))
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
-
+After analyzing these graphs, it shows that the white population is most in favor of this proposition. For the black population it shows that they are equally opposed and for the proposition. Finally, it shows that those of other races favor it more than they oppose it. Percentage wise, those of other races are nearly equal to white. 
 
 ### Numerical Descriptive Results
 
