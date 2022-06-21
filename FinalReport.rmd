@@ -80,6 +80,8 @@ rowPerc(table2)
 colPerc(table2)
 ```
 
+Based on the numerical data of the percent of race, it shows that white people favor it more than oppose it, the black population only slightly opposes more than favors it, and those of other races favors it more than oppose it. Essentially this shows that whites favor the proposition the most and black oppose the proposition the most. 
+The second chart simply tells us that there were more white people used in this study than there were either black or other races. 
 
 ## Inferential Results
 
