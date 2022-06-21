@@ -110,3 +110,6 @@ According to the small p-values in this set of data (everything is lower than 0.
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+In this particular set of data, which has more data, we saw a large difference when analyzing the graphical data (meaning the percentages). It showed a considerable difference between whites and those of other races (this was not the case in the other branch with less data). In the numerical data, we saw that that whites favor the proposition the most and black oppose the proposition the most. Finally, the inferential results show that there was a significant difference between all groups in comparison to one another (in the other branch, we saw that there was no difference between whites and others (I will explain this more in the other branch's conclusion)).
+As far as the data is concerned in this branch, it shows that race does effect whether one favors capital punishment or not. Clearly having a larger dataset produced more differences. 
