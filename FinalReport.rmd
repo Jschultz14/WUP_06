@@ -102,9 +102,10 @@ fisher.test(table2)
 Given that the p-value is so small, it is clear that we need to run the fisher test. 
 
 ```{r}
-fisherXY(mydata$cappun,mydata$race)
+fisherXY(mydata$cappun,mydata$race, printAll = TRUE)
 ```
  
+According to the small p-values in this set of data (everything is lower than 0.05), it shows that there is a significant difference in each group when compared to one another in how they favor and oppose this proposition. 
 
 # Discussion and Conclusion
 
