@@ -164,9 +164,10 @@ fisherXY = function(x, y, confL = 0, printAll=FALSE){
 ```
 
 ```{r}
-fisherXY(mydata$cappun,mydata$race)
+fisherXY(mydata$cappun,mydata$race, printAll = TRUE)
 ```
  
+Based on this data, it shows that the p-value for whites compared to blacks is less than 0.05, as is the case when comparing blacks with other races. This shows that there is a difference between those groups in comparison to one another. However, the p-value for whites and other shows as a 1. This means that there is no difference between whites and those of other races. 
 
 # Discussion and Conclusion
 
